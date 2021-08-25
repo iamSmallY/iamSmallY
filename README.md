@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor)
 - 📫 How to reach me: smally@stu.ecnu.edu.cn
 
-
 <a href="https://github.com/iamSmallY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamSmallY&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSmallY&layout=compact&theme=tokyonight" />
+  <img height="180em" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=iamSmallY&show_icons=true&theme=tokyonight" />
+  <img height="180em" style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSmallY&layout=compact&theme=tokyonight" />
 </a>
