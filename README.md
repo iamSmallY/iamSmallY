@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Badge](https://cp-logo.vercel.app/codeforces/_SmallY)](https://codeforces.com/profile/_SmallY)
 
 - 👨‍💻 I'm a student of [East China Normal University](https://www.ecnu.edu.cn/)
+- 👯 I'm an ICPC newcomer. [![Badge](https://cp-logo.vercel.app/codeforces/_SmallY)](https://codeforces.com/profile/_SmallY)
 - 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor)
-
+- 📫 How to reach me: smally@stu.ecnu.edu.cn
 
 
 <a href="https://github.com/iamSmallY">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamSmallY&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSmallY&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSmallY&layout=compact&theme=tokyonight" />
 </a>
