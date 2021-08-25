@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Badge](https://cp-logo.vercel.app/codeforces/_SmallY)](https://codeforces.com/profile/_SmallY)
+
+- 👨‍💻 I'm a student of [East China Normal University](https://www.ecnu.edu.cn/)
+- 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor)
+
+
+
+<a href="https://github.com/iamSmallY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamSmallY&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSmallY&layout=compact" />
+</a>
