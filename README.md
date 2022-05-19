@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I'm a student of [East China Normal University](https://www.ecnu.edu.cn/)
 - 👯 I'm an ICPC newcomer. [![Badge](https://cp-logo.vercel.app/codeforces/_SmallY)](https://codeforces.com/profile/_SmallY)
-- 🔭 I’m currently working on [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor) and [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
 - 📫 How to reach me: smally@stu.ecnu.edu.cn
 
 <a style="display: flex;" href="https://github.com/iamSmallY">
